@@ -1,7 +1,7 @@
 {
   "name": "jsmn",
   "version": "1.0.0",
-  "repo": "clib/jsmn",
+  "repo": "clibs/jsmn",
   "description": "json parser",
   "license": "MIT",
   "src": ["jsmn.c", "jsmn.h", "LICENSE"],

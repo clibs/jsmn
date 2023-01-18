@@ -1,0 +1,10 @@
+{
+  "name": "jsmn",
+  "repo": "zserge/jsmn",
+  "version": "master",
+  "description": "Jsmn is a world fastest JSON parser/tokenizer. ",
+  "src": [
+    "LICENSE",
+    "jsmn.h"
+  ]
+}
